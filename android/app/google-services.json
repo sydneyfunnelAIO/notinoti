@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046179233229",
+    "project_id": "notinoti-524fc",
+    "storage_bucket": "notinoti-524fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046179233229:android:f8bd3871bd3ff735729884",
+        "android_client_info": {
+          "package_name": "com.notinoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046179233229-nrg6ibvtr10g284gqpdqtkprm74t07t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMVxyjK0owO2-RKmto0QA3aOHvWJ9WsA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046179233229-nrg6ibvtr10g284gqpdqtkprm74t07t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
